@@ -23,8 +23,8 @@ The following **required** functionality is completed:
   </div>## App Brainstorming (Step 4)
 
   *Duolingo* 
-  -Audio Prompts to practice listening
-  -Feedbacks for mistakes
+  - Audio Prompts to practice listening
+  - Feedbacks for mistakes
 
   *GoodNotes*
   - Available paper in different colors

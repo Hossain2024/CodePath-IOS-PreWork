@@ -4,7 +4,7 @@ Submitted by: **Maliha Hossain**
 
 **ColorPlay** is an app that  allows to Change  background color of UI by clicking changeBackgroundColor Button
 
-Time spent: **X** 4 hours
+Time spent: **4 hours** 
 
 ## Required Features
 
@@ -22,6 +22,25 @@ The following **required** functionality is completed:
     </a>
   </div>## App Brainstorming (Step 4)
 
+  *Duolingo* 
+  -Audio Prompts to practice listening
+  -Feedbacks for mistakes
+
+  *GoodNotes*
+  - Available paper in different colors
+  - Different fonts Available
+  - Users can insert pictures into notes
+
+ *Facebook*
+ - Ability to share Stories
+ - Ability to Write post
+
+ *Spotify*
+ -Ability to queue a song
+ -Ability to create libraries of Favourite songs
+ -Ability to follow other spotify users
+ 
+  
 ## Notes
 
 One of The challenges I encontered was making the Button initially . I Didn't Notice that the instruction mentioned to press control and drag the button. So, I watched a small video clip on youtube to figure it out. 

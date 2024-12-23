@@ -20,7 +20,9 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/b3b49e772da0424fa83c982ec2be2ea0">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b3b49e772da0424fa83c982ec2be2ea0-e252814a6f6dd461-full-play.gif">
     </a>
-  </div>## App Brainstorming (Step 4)
+  </div>
+     
+  ## App Brainstorming (Step 4)
 
   *Duolingo* 
   - Audio Prompts to practice listening

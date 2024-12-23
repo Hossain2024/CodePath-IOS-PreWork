@@ -36,9 +36,10 @@ The following **required** functionality is completed:
  - Ability to Write post
 
  *Spotify*
- -Ability to queue a song
- -Ability to create libraries of Favourite songs
- -Ability to follow other spotify users
+ 
+ - Ability to queue a song
+ - Ability to create libraries of Favourite songs
+ - Ability to follow other spotify users
  
   
 ## Notes

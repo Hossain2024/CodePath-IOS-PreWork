@@ -2,7 +2,7 @@
 
 Submitted by: **Maliha Hossain**
 
-**ColorPlay** is an app that  allows to Change  background color of UI by clicking changeBackgroundColor Button
+**ColorPlay** is an app that  allows users to Change  background color of UI by clicking changeBackgroundColor Button
 
 Time spent: **4 hours** 
 
